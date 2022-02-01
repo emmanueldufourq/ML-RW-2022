@@ -1,9 +1,9 @@
-Monday Work Plan
+Tuesday 1 Feb Work Plan
 ----------------
 
 Link to all material: https://drive.google.com/drive/folders/117nmNd-6zvs5aqNf2ICobqZSgbT0iObp?usp=sharing
 
-The material for this lecture in the "Decision Trees (Monday 31 Jan)" folder.
+The material for this lecture in the "Decision Trees (Tuesday 1 Feb)" folder.
 
 Lecture Plan
 ------------
@@ -72,3 +72,7 @@ Finally to conclude, a small video explaining underfitting, overfitting and "jus
 Post questions
 --------------
 Post any questions on slack! 
+
+Outcomes
+---------
+You should be comfortable with the ability to manually compute the root node of a decision tree if a dataset is provided to you.
