@@ -31,9 +31,9 @@ Lecture Material
 Quiz
 ----
 
-Quiz on K-NN algorithm - deadline 23:59 5th Jan 2021 - https://docs.google.com/forms/d/e/1FAIpQLScvp_fH0tVXA3O8D0qp8VsZPiqZRX05QjhFkHZBJOVbhAj7Rg/viewform?usp=pp_url
+Quiz on K-NN algorithm - deadline 23:59 8th Feb 2021 - https://docs.google.com/forms/d/e/1FAIpQLSfAgVIJ_PixHHX1uIkPYJlZLF8DIt_R6S1N1wk5iRbalp37Tg/viewform?usp=pp_url
 
-Quiz on error based learning - deadline 23:59 6th Jan 2021 - https://docs.google.com/forms/d/e/1FAIpQLSeCpz6o199qGxbv-m5CTNH8ySP1jPjG46ALZgiEfKGqmQiflA/viewform?usp=pp_url
+Quiz on error based learning - deadline 23:59 9th Feb 2021 - https://docs.google.com/forms/d/e/1FAIpQLSfMClYbko2gZa9FpJFls4rzXYq-hGRqTIXPyfhxYqnOpL1G5g/viewform?usp=pp_url
 
 Reading Material (evenings)
 -----------------
