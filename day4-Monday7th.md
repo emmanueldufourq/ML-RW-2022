@@ -3,7 +3,7 @@ Monday Work Plan
 
 Link to all material: https://drive.google.com/drive/folders/117nmNd-6zvs5aqNf2ICobqZSgbT0iObp?usp=sharing
 
-The material for this lecture in the "Error Based Learning (Thursday 6 Jan)" folder.
+The material for this lecture in the "Error Based Learning (Monday 7 Feb)" folder.
 
 Lecture Plan
 ------------
