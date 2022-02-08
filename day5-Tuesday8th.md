@@ -31,7 +31,7 @@ None.
 Quiz
 ----
 
-TBC
+due on 9th Feb 2022: https://docs.google.com/forms/d/e/1FAIpQLSfMClYbko2gZa9FpJFls4rzXYq-hGRqTIXPyfhxYqnOpL1G5g/viewform?usp=pp_url
 
 Reading Material (evenings)
 -----------------
