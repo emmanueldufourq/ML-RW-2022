@@ -1,7 +1,8 @@
 Wednesday 2 Work Plan
 ----------------
 
-Link to all material: https://drive.google.com/drive/folders/1Hg3rlKvKRd9PRPTne0ehE24HaSArTgtU?usp=sharing
+Link to all material: https://drive.google.com/drive/folders/117nmNd-6zvs5aqNf2ICobqZSgbT0iObp?usp=sharing
+
 
 The material for this lecture in the "Decision Tree" folder.
 
